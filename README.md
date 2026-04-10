@@ -1,17 +1,21 @@
-RPA is my PASSION.! 🤖 I'm currently working as a Senior RPA Developer(UiPath) in Dukhan Bank in Qatar. 
+RPA is my PASSION.! 🤖 I'm Sathanand, an RPA Solution Architect and UiPath Full-Stack Engineer at the Ministry of Public, Qatar. I bring 10+ years in technology, including 9 years delivering Robotic Process Automation solutions across banking, government, healthcare, insurance, retail and manufacturing.
 
-Worked as a Senior RPA Developer and as A RPA Team Lead by Handling a team of developers and coordinating smoothly to create a synergy. Making sure the team is aligned to the deadline and also being proactive consistently to deliver the projects on time.
 
-I'm a well experienced Automation Solutions expert using Robotic Process Automation with a demonstrated history of working in the information technology and services industry. Skilled in Software Development, Infrastructure knowledge, Passionate towards Robotic Process Automation (RPA) in UiPath Tool(Advance Certified), .NET(Certified), SQL(Certified), C#, VB, VBA Coding/Development, HTML, XML, PowerShell. Experienced in RPA awareness and marketing inside an organization. Holding domain knowledge in IT, BFSI, Healthcare, Insurance, Retail, Manufacturing etc.,
 
-Demonstrated track record of research, prototyping, and implementing new features around automation. Quick learner, self-motivated, result-oriented, and very capable of working independently, within a team, and leading a team as well.
+I lead end-to-end automation programs—requirements analysis, REFramework design, development, testing, UAT, deployment and production support—while mentoring teams to deliver scalable, secure and auditable automation. I have proven experience in platform migrations from windows to Linux servers, multi-node Automation Suite deployments, Orchestrator administration, licensing optimization, disaster recovery and high-availability setups.
 
-Strong engineering professional with a Master's degree focused in Computer Science from Bharathidasan University.
 
-PS : If a task is given to me, Consider it's done.! 😉
 
-✆ Qatar +974 3064 5182 (Call/WhatsApp)
-✆ India +91 9171743245 (Call/WhatsApp)
-✉ sathanandchakravarthy@outlook.com
+Technical strengths include UiPath Studio/Orchestrator/Automation Suite (Document Understanding, AI Center, Computer Vision, Action Center), Rest/Soap API integrations, SQL/Oracle, C#, VB.NET, VBA, PowerShell, Python (basics), Linux (RHEL), Git, Postman and Kibana/Elastic. I automate desktop/web/Citrix/SAP/Excel/PDF/handwritten documents and integrate robots with enterprise systems.
 
-#RPA #RoboticsProcessAutomation #UiPath #Trainer #Freelance #VBA #Freelancer
+
+
+I build reusable libraries, governance artifacts and measurable KPIs to demonstrate business value. Quick learner, result-oriented and effective working independently or leading teams—focused on delivering reliable, maintainable automation that reduces manual effort and improves compliance.
+
+
+
+Contact: Qatar +974 3064 5182 | India +91 91717 43245 | sathanandchakravarthy@outlook.com
+
+
+
+#RPA #RoboticsProcessAutomation #UiPath
